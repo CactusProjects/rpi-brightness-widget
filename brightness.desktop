@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Brightness Widget
+Comment=For Official RPI LCD.
+Exec=python /home/pi/Desktop/code/brightness_ex.py
+Icon=/home/pi/Desktop/code/sunny.png
+Path=/home/pi/Desktop/code/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+StartupNotify=false
+Name[en_IE]=brightness.desktop
